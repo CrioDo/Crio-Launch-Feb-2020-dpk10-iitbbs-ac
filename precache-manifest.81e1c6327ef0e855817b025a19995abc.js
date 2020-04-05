@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7a0d09e1736a2d17e5c7a55f0f97dba6",
+    "revision": "4f48d0a1bcb326dd2b588ea57d0255c0",
     "url": "/Crio-Launch-Feb-2020-dpk10-iitbbs-ac/index.html"
   },
   {
-    "revision": "971ba8949201056fd585",
+    "revision": "ef7d648112df48b0e375",
     "url": "/Crio-Launch-Feb-2020-dpk10-iitbbs-ac/static/css/2.57ddf7ad.chunk.css"
   },
   {
-    "revision": "8c0dfecad4cc1a589c70",
+    "revision": "5d0f7a186b02f720a6ec",
     "url": "/Crio-Launch-Feb-2020-dpk10-iitbbs-ac/static/css/main.5db1380d.chunk.css"
   },
   {
-    "revision": "971ba8949201056fd585",
-    "url": "/Crio-Launch-Feb-2020-dpk10-iitbbs-ac/static/js/2.f9235ee8.chunk.js"
+    "revision": "ef7d648112df48b0e375",
+    "url": "/Crio-Launch-Feb-2020-dpk10-iitbbs-ac/static/js/2.6de623bb.chunk.js"
   },
   {
     "revision": "d466ab9648f013dea081956fc7c904f3",
-    "url": "/Crio-Launch-Feb-2020-dpk10-iitbbs-ac/static/js/2.f9235ee8.chunk.js.LICENSE.txt"
+    "url": "/Crio-Launch-Feb-2020-dpk10-iitbbs-ac/static/js/2.6de623bb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8c0dfecad4cc1a589c70",
-    "url": "/Crio-Launch-Feb-2020-dpk10-iitbbs-ac/static/js/main.2c599a93.chunk.js"
+    "revision": "5d0f7a186b02f720a6ec",
+    "url": "/Crio-Launch-Feb-2020-dpk10-iitbbs-ac/static/js/main.8fa6b4d3.chunk.js"
   },
   {
     "revision": "b4094ef8a0c98c3324ca",
