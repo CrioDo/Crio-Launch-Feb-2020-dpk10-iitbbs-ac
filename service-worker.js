@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Crio-Launch-Feb-2020-dpk10-iitbbs-ac/precache-manifest.f8712c9e015dcdc5090f01b8cdf5f174.js"
+  "/Crio-Launch-Feb-2020-dpk10-iitbbs-ac/precache-manifest.faeb92e4021bc43a988f2a163df92b0b.js"
 );
 
 self.addEventListener('message', (event) => {
